@@ -1,0 +1,15 @@
+table { 
+    table-layout:fixed;
+}
+td { 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    vertical-align: center;
+}
+input{
+    vertical-align: center;
+}
+textarea{
+    vertical-align: center;
+}

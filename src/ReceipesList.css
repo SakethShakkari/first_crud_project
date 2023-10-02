@@ -1,0 +1,18 @@
+table{
+    margin: auto;
+    width: 100%;
+}
+tr,th{
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #f0d985ee;
+}
+textarea{
+    height: 4em;
+    columns: 80em;
+}
+
+img { margin: auto;
+width: 50%;
+height: 50%;}
